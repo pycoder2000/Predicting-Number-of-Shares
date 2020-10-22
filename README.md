@@ -16,7 +16,7 @@ Mashable’s entire business is dependent on popularity of articles. With accura
 ### Additional information
 
 - Technology used - Machine Learning
-- Dataset - [OnlineNewsPopularity](https://github.com/JVedant/Predicting-number-of-Shares/blob/master/dataset/OnlineNewsPopularity.csv)
+- Dataset - [OnlineNewsPopularity](https://github.com/pycoder2000/Predicting-Number-of-Shares/blob/main/dataset/OnlineNewsPopularity.csv)
 - Models used :
   - LinearRegression
   - RandomForestRegressor
